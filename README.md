@@ -5,9 +5,6 @@ A **simple web-based calculator** built with **HTML, CSS, and JavaScript** that 
 🔗 **Live Demo:** [https://vaibhavibaware.github.io/SimpleCalculator/](https://vaibhavibaware.github.io/SimpleCalculator/)
 
 ---
-
-
-
 ## ✨ Features
 
 - ➕ **Addition**, ➖ **Subtraction**, ✖️ **Multiplication**, ➗ **Division**
@@ -19,7 +16,6 @@ A **simple web-based calculator** built with **HTML, CSS, and JavaScript** that 
 ---
 
 ## 🛠️ Tech Stack
-
 - **HTML5** – calculator structure and layout
 - **CSS3** – UI styling and responsiveness
 - **JavaScript (ES6)** – logic for arithmetic operations and button handling
@@ -27,17 +23,11 @@ A **simple web-based calculator** built with **HTML, CSS, and JavaScript** that 
 ---
 
 ## 📁 Project Structure
-
 SimpleCalculator/
 ├── index.html # Calculator layout and buttons
 ├── style.css # Styling for calculator design
 ├── script.js # Logic for calculations and interactions
 └── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 💡 Future Enhancements
@@ -46,5 +36,4 @@ Edit
 - 📱 Improve **mobile UI optimization**
 - ⏳ Add **history** of recent calculations
 - 🌗 Introduce **dark/light theme toggle**
-
 ---
