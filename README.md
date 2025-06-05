@@ -8,6 +8,7 @@ A **simple web-based calculator** built with **HTML, CSS, and JavaScript** that 
 ## ✨ Features
 
 - ➕ **Addition**, ➖ **Subtraction**, ✖️ **Multiplication**, ➗ **Division**
+- 
 - 🧼 **Clear (C)** button to reset the input and output
 - 🟰 **Equal (=)** button to calculate and display result
 - 🔢 Input through **numeric buttons** and **decimal point**
